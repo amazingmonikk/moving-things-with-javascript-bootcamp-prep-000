@@ -1,4 +1,4 @@
-in HTML change left to right
+//in HTML div id="dodger" changed left to right= '180px' bc right was '0px' when we tried to move dodger to the left
 
 /*
 var dodger = document.getElementById('dodger')                  
